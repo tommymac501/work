@@ -1,0 +1,7 @@
+sales_data = [
+    {"order_id": "ORD001", "customer": "Alice Smith", "product": "Laptop", "quantity": 1, "price": 999.99, "date": "2025-01-15"},
+    {"order_id": "ORD002", "customer": "Bob Johnson", "product": "Mouse", "quantity": 3, "price": 19.99, "date": "2025-02-10"},
+    {"order_id": "ORD003", "customer": "Charlie Brown", "product": "Keyboard", "quantity": 2, "price": 49.99, "date": "2025-02-15"},
+    {"order_id": "ORD004", "customer": "Alice Smith", "product": "Monitor", "quantity": 1, "price": 149.99, "date": "2025-03-01"},
+    {"order_id": "ORD005", "customer": "Dana Lee", "product": "Laptop", "quantity": 2, "price": 999.99, "date": "2025-03-10"}
+]
